@@ -1,4 +1,5 @@
 def add(a, b):
-    return a+b 
+    return a + b
 
-add(3,7)
+
+print(add(3, 7))
